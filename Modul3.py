@@ -1,7 +1,7 @@
 import Soal_3
 
 def main():
-    antrian = Soal_4.AntrianRestoran()
+    antrian = Soal_3.AntrianRestoran()
 
     while True:
         print("\n1. Tambah pesanan")
